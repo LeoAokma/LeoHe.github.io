@@ -33,6 +33,9 @@ services:
       - title: "3D Printing Technique"
         desc: "3D printing experiences with over 2 years."
         icon: fas fa-print
+      - title: "Radio License A"
+        desc: "Permitted by the association to transmit radio signals at UHF frequency band."
+        icon: fas fa-broadcast-tower
 
 portfolio:
     title: "Projects"
