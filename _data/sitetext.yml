@@ -27,8 +27,8 @@ portfolio:
     
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Timeline" 
+    text: "My Education Timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -55,12 +55,12 @@ timeline:
         alt: image alt text
       - title: "Bachlor's Degree: Peking University"
         year: "2018-2022"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "Major in Material Chemistry in College of Chemistry and Molecular Engineering, Peking University."
         image: assets/img/timeline/4.jpg
         alt: 
         # you can enforce the aligment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To be continued..."
 
 about:
     title: "About Us"
@@ -86,14 +86,15 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "My Social Platforms"
+    text: "This is where I usually publish my works."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Bilibili"
+        role: "Original video sharing platform in China"
         image: assets/img/team/500x500.jpg
+          - url: http://www.bilibili.com
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -101,9 +102,10 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "500 px"
+        role: "Photography "
         image: assets/img/team/2.jpg
+          - url: https://500px.com.cn/
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -111,8 +113,8 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Wechat Public Platform"
+        role: "A Chinese information exchanging platform"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -123,7 +125,7 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
+    title: "Contact Me"
     text: "Lorem ipsum or call 123456789"
     section: contact
     
@@ -136,7 +138,7 @@ footer:
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/LeoAokma
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
