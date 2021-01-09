@@ -5,7 +5,7 @@ image: assets/img/cloud1.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
+  title: DIY:3D Printed RFID Doorgate
   subtitle: Illustration
   thumbnail: assets/img/cloud1.png
 ---

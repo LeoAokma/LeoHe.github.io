@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: "DIY:"
+  title: Explore
   subtitle: Graphic Design
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---

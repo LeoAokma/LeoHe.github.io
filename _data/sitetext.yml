@@ -118,7 +118,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "500 px"
         role: "Global platform for photography "
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500px.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
