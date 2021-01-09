@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: "Geek: A Simple COVID-19 Kinetic Simulation Model"
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/proj2/2.11-SEIRD2.png
 alt: Keep Exploring
