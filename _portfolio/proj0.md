@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Undergraduate Scientific Research Program
+  title: Undergraduate Scientific Research Program(2020)
   subtitle: The research program I participated in during undergraduate study.
   thumbnail: https://place-hold.it/400x300
   
