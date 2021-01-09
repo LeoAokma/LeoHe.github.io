@@ -94,7 +94,6 @@ team:
       - name: "Bilibili"
         role: "Original video sharing platform in China"
         image: assets/img/team/500x500.jpg
-          - url: https://www.bilibili.com/
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -103,9 +102,8 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "500 px"
-        role: "Photography "
+        role: "Global platform for photography "
         image: assets/img/team/2.jpg
-          - url: https://500px.com.cn/
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -115,7 +113,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Wechat Public Platform"
         role: "A Chinese information exchanging platform"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/wechat.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
