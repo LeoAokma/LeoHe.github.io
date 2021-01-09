@@ -1,5 +1,5 @@
 ---
-title: Project Threads
+title: DIY:3D Printed RFID Doorgate
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/cloud1.png
 alt: Shirts on a hanger
