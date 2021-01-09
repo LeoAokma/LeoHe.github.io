@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Undergraduate Scientific Research Program(2020)
   subtitle: The research program I participated in during undergraduate study.
-  thumbnail: https://place-hold.it/400x300
+  thumbnail: assets/img/portfolio/proj0/cie.png
   
 #what displays when the item is clicked:
 title: "Organic complex of divalent Europium with deep blue emission"
 subtitle: Undergraduate Scientific Research Program
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image:  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
