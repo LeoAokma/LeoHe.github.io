@@ -122,7 +122,7 @@ team:
     section: team
     people:
       - name: "Bilibili"
-        url: "https://bilibili.com"
+        url: "https://space.bilibili.com/85961568"
         role: "Original video sharing platform in China"
         image: assets/img/team/bilibili.jpg
         social:
@@ -133,6 +133,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "500 px"
+        url: "https://500px.com.cn/LeoAokma"
         role: "Global platform for photography "
         image: assets/img/team/500px.jpg
         social:
