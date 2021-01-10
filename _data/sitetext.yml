@@ -121,7 +121,8 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "[Bilibili](https://bilibili.com)"
+      - name: "Bilibili"
+        url: "https://bilibili.com"
         role: "Original video sharing platform in China"
         image: assets/img/team/bilibili.jpg
         social:
