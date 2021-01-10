@@ -14,7 +14,7 @@ services:
         icon: fas fa-camera #find more at https://fontawesome.com/icons
       - title: "Aerophotography"
         desc: "Flying drones for more than 600 kilometers and taking for over 10, 000 photos."
-        icon: fas fa-drone
+        icon: fas fa-plane
       - title: "Python Coding"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-file-code       
