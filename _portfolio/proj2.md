@@ -9,13 +9,16 @@ caption:
   subtitle: A kinetic model with ode-like functions predicting the COVID-19 trend.
   thumbnail: assets/img/portfolio/proj2/封面small.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+# Description
+## Descriptions
+### Bibliography
+[Original Passage in Chinese](https://mp.weixin.qq.com/s/MeH9_ctKkoeE6pyKV-dOCw)
+
+```
+Test Code Here
+```
 
 {:.list-inline}
 - Date: January 2020
 - Client: Explore
 - Category: Mathematical Simulation
-
-[Original Passage in Chinese]https://mp.weixin.qq.com/s/MeH9_ctKkoeE6pyKV-dOCw
-
-
