@@ -16,11 +16,8 @@ services:
         desc: "Flying drones for more than 600 kilometers and taking for over 10, 000 photos."
         icon: fas fa-plane
       - title: "Python Coding"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Learning python from 2018, programing for fun and academic usage."
         icon: fas fa-file-code       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
       - title: "Wechat Public Media Running"
         desc: "Running public social media for over 2 years, publishing over 40 original pieces of work, and gaining more than
         50,000 reads."
@@ -124,7 +121,7 @@ team:
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Bilibili"
+      - name: "[Bilibili](https://bilibili.com)"
         role: "Original video sharing platform in China"
         image: assets/img/team/bilibili.jpg
         social:
