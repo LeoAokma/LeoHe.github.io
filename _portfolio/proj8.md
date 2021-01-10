@@ -9,10 +9,5 @@ caption:
   subtitle: An original opening video about chemical reactions captured by macro lens.
   thumbnail: assets/img/portfolio/proj8/13.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+<iframe height="400" width="800" src="//player.bilibili.com/player.html?aid=327640822&bvid=BV15A411h7NX&cid=174135224&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
