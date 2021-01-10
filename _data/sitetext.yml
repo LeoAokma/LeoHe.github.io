@@ -95,6 +95,11 @@ timeline:
         desc: "Major in Material Chemistry in College of Chemistry and Molecular Engineering, Peking University."
         image: assets/img/timeline/pku.png
         alt: 
+      - title: "Scientific Research in Peking University"
+        year: "2020.6"
+        desc: "Starting scientific research in CCME, Peking Univ."
+        image: assets/img/timeline/pku.png
+        alt: 
         # you can enforce the aligment
         align: right
     end: "To be continued..."
