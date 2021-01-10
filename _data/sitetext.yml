@@ -115,7 +115,7 @@ team:
     people:
       - name: "Bilibili"
         role: "Original video sharing platform in China"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/bilibili.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
