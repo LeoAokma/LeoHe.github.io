@@ -57,22 +57,29 @@ timeline:
     events:
       - title: "Primary School Education(I): Lanbowan Elementary School"
         year: "2006-2009"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Born in Zhongshan, Guangdong Province, I took the first three years of elementary education in that small, peaceful
+        city."
         image: assets/img/timeline/1.jpg
         alt: 
       - title: "Primary School Education(II): Binbei Elementary School"
         year: "2009-2012"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Then my family moved to Xiamen, Fujian Province, which is about 800 km away from Zhongshan. After that, I lived in
+        Xiamen for about 9 years before I went to college."
         image: assets/img/timeline/1.jpg
         alt: 
       - title: "Junior High Education: Binlang Junior High(Xiamen)"
         year: "2012-2015"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "I participated in school union and was elected as the person in charge of the department of propaganda. I've also
+        been participating in some national competition on making short scientific videos and gained 2 first prizes and 1 thrid prize."
         image: assets/img/timeline/2.jpg
         alt: 
       - title: "Senior High Education: Amoy No.1 High School"
         year: "2015-2018"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "It took me nearly one year to fully accomondate the senior high study, for there was a huge leap from junior high
+        education. I was a menber in the shool union as well, and I was assigned as one of the president of Executive Commitee
+        (4 in total) in the first grade. In the second grade, I was elected as associated priminister in propaganda department.
+        I also took part in CChO(Chinese Chemistry Olympiad) and eventually won the golden prize and the agreement of admission
+        from Peking University."
         image: assets/img/timeline/amoy1.jpg
         alt: image alt text
       - title: "Chemistry Olympiad(CChO) Training: Xiamen University"
@@ -123,7 +130,7 @@ team:
     people:
       - name: "Bilibili"
         url: "https://space.bilibili.com/85961568"
-        role: "Original video sharing platform in China"
+        role: "A Chinese original video sharing platform for teenagers"
         image: assets/img/team/bilibili.jpg
         social:
           - url: https://twitter.com
@@ -134,7 +141,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "500 px"
         url: "https://500px.com.cn/LeoAokma"
-        role: "Global platform for photography "
+        role: "Global platform for photography"
         image: assets/img/team/500px.jpg
         social:
           - url: https://twitter.com
@@ -144,7 +151,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Wechat Public Platform"
-        role: "A Chinese information exchanging platform"
+        role: "A Chinese information exchanging platform for all citizens"
         image: assets/img/team/wechat.png
         social:
           - url: https://twitter.com
