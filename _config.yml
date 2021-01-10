@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Leo Studios
 email      : kryst.leo@pku.edu.cn #this is also the email contact forms will go to
-description: "Site description"
+description: "This is the personal website of Leo He."
 author     : Leo(Jiawei) He
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
