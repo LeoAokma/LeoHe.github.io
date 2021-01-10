@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: Undergraduate Scientific Research Program(2020)
   subtitle: The research program I participated in during undergraduate study.
-  thumbnail: assets/img/portfolio/proj0/cie.png
+  thumbnail: assets/img/portfolio/proj0/cie.jpeg
   
 #what displays when the item is clicked:
 title: "Organic complex of divalent Europium with deep blue emission"

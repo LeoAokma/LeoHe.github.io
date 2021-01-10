@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: "Geek: A Simple COVID-19 Kinetic Simulation Model(2020)"
   subtitle: A kinetic model with ode-like functions predicting the COVID-19 trend.
-  thumbnail: assets/img/portfolio/proj2/封面small.jpg
+  thumbnail: assets/img/portfolio/proj2/header0.jpeg
 ---
 # Description
 ## Descriptions
