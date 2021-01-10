@@ -104,10 +104,10 @@ timeline:
         align: right
     end: "To be continued..."
 
-photo:
-    title: "About Us"
-    text: "our story"
-    section: photo
+about:
+    title: "More Info"
+    text: "Absldjfkdlsjfkldsjflksdajflksajfslkdfsd"
+    section: about
 
 clients:
     section: clients
