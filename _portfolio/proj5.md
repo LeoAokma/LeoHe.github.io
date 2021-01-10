@@ -7,7 +7,7 @@ alt: Keep Exploring
 caption:
   title: "DIY: The Record Player(2019)"
   subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/proj5/总设计图.png
+  thumbnail: assets/img/portfolio/proj5/总设计图.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
