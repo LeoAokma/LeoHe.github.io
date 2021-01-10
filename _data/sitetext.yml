@@ -12,6 +12,9 @@ services:
       - title: "Photography"
         desc: "Developing DSLR photography for over 10 years, now entering medium format film field."
         icon: fas fa-camera #find more at https://fontawesome.com/icons
+      - title: "Aerophotography"
+        desc: "Flying drones for more than 600 kilometers and taking for over 10, 000 photos."
+        icon: fas fa-drone
       - title: "Python Coding"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-file-code       
@@ -75,6 +78,14 @@ timeline:
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/amoy1.jpg
         alt: image alt text
+      - title: "Chemistry Olympiad(CChO) Training: Xiamen University"
+        year: "2017.10-2017.11"
+        desc: "During senior high, I participated in Chemistry Olmpiad and managed to be a menber of the representative team
+        of Fujian Province to compete in CChO(Chinese Chemistry Olympiad). The whole team was trained in Xiamen University for
+        about 1 month, receiving education from theoretical field such as analytical chemistry, organic chemistry to experimental
+        chemistry."
+        image: assets/img/timeline/amu.jpg
+        alt: 
       - title: "Bachlor's Degree: Peking University"
         year: "2018-2022"
         desc: "Major in Material Chemistry in College of Chemistry and Molecular Engineering, Peking University."
