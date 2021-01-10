@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "Photography"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Developing DSLR photography for over 10 years, now entering medium format film field."
         icon: fas fa-camera #find more at https://fontawesome.com/icons
       - title: "Python Coding"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -19,22 +19,26 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
       - title: "Wechat Public Media Running"
-        desc: "sssss"
+        desc: "Running public social media for over 2 years, publishing over 40 original pieces of work, and gaining more than
+        50,000 reads."
         icon: fab fa-weixin
       - title: "Experiment Abilities"
-        desc: "sahfjdsahfdsah"
+        desc: "Strong interests in performing experiments including Chemistry, Physics and Optics. Proficient in 
+        doing experiments, once the record holder in organic synthesis yield when training for Chemistry Olympiad in
+        Xiamen University."
         icon: fas fa-flask
       - title: "Piano Playing"
-        desc: "sadklda"
+        desc: "Playing piano for over 10 years, got the 10th level certificate of Shanghai Musical Association in 2014.
+        Participated in multiple competition and got prizes during junior high."
         icon: fas fa-music
       - title: "Microchip Programming"
-        desc: "Arduino microchip programming experiences."
+        desc: "Arduino microchip programming experiences. Engaged in more than two projects that use microchip programming."
         icon: fas fa-microchip
       - title: "3D Printing Technique"
-        desc: "3D printing experiences with over 2 years."
+        desc: "3D printing experiences with over 2 years. Doing small bussiness in 3D printing services."
         icon: fas fa-print
-      - title: "Radio License A"
-        desc: "Permitted by the association to transmit radio signals at UHF frequency band."
+      - title: "Amateur Radio Operation License A"
+        desc: "Permitted by the CRAC to transmit radio signals at UHF frequency band."
         icon: fas fa-broadcast-tower
 
 portfolio:
