@@ -21,7 +21,7 @@ services:
       - title: "Python Coding"
         desc: "Learning python from 2018, programing for fun and academic usage."
         icon: fas fa-file-code       
-      - title: "Wechat Public Media Running"
+      - title: "[Wechat Public Media Running](wechat)"
         desc: "Running public social media for over 2 years, publishing over 40 original pieces of work, and gaining more than
         50,000 reads."
         icon: fab fa-weixin
