@@ -1,4 +1,5 @@
 ---
+layout: page2
 title: "Original works published on Wechat"
 abstract: "Abstract Here"
 ---
