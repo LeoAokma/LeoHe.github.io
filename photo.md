@@ -1,12 +1,8 @@
 ---
-layout: page2
+layout: photo
 title: Photo
 text: asjdklsajd
 ---
-<div class="col-lg-12 text-center">
-	<h1 class="section-heading text-uppercase">Video Works</h1>
-</div>
-
 ## Phamton of Chemistry
 ### self made
 

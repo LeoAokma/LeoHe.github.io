@@ -1,0 +1,16 @@
+{% include nav.html %}
+
+<!-- Header -->
+<photo class="masthead">
+  <div class="container">
+    <div class="intro-text">
+	{%- if site.data.sitetext.photo.title -%}
+      <div class="intro-lead-in">{{ site.data.sitetext.photo.title | markdownify }}</div>
+	{%- endif -%}
+	{%- if site.data.sitetext.photo.text -%}
+      <div class="intro-heading text-uppercase">{{ site.data.sitetext.photo.text | markdownify }}</div>
+	{%- endif -%}
+    </div>
+  </div>
+</photo>
+<!-- End Header -->
