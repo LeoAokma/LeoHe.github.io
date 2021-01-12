@@ -1,8 +1,8 @@
 // Styling for the photo section
-header.masthead {
+header.photohead {
   text-align: center;
-  color: white;
-  background-image: url("#{$photo-image}");
+  color: rgb(255, 255, 255);
+  background-image: url("../../assets/img/wall.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -27,7 +27,7 @@ header.masthead {
   }
 }
 @media(min-width:768px) {
-  header.masthead {
+  header.photohead {
     .intro-text {
       padding-top: 300px;
       padding-bottom: 200px;
