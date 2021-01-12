@@ -53,8 +53,8 @@ services:
         icon: fas fa-broadcast-tower
 
 portfolio:
-    title: "Projects"
-    text: "The projects I've ever made."
+    title: "Representative Projects"
+    text: "Representitive original projects."
     section: portfolio
     closebutton: "Close"
     

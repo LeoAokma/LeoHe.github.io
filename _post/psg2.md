@@ -1,6 +1,6 @@
 ---
 caption: #what displays in the post grid:
-  title: Undergraduate Scientific Research Program(2020)
+  title: General Physics Lab(2019)
   subtitle: The research program I participated in during undergraduate study.
   thumbnail: assets/img/portfolio/proj0/cie.jpg
   
