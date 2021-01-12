@@ -1,15 +1,42 @@
-// Styling for the portfolio section
-#portfolio {
-  .portfolio-item {
+// Styling for the photo section
+photo.masthead {
+  text-align: center;
+  color: white;
+  background-image: url("#{$photo-image}");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  .intro-text {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    .intro-lead-in {
+      font-size: 22px;
+      font-style: italic;
+      line-height: 22px;
+      margin-bottom: 25px;
+      @include serif-font;
+    }
+    .intro-heading {
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 50px;
+      margin-bottom: 25px;
+      @include heading-font;
+    }
+  }
+}
+#photo {
+  .photo-item {
     right: 0;
     margin: 0 0 15px;
-    .portfolio-link {
+    .photo-link {
       position: relative;
       display: block;
       max-width: 400px;
       margin: 0 auto;
       cursor: pointer;
-      .portfolio-hover {
+      .photo-hover {
         position: absolute;
         width: 100%;
         height: 100%;
@@ -21,7 +48,7 @@
         &:hover {
           opacity: 1;
         }
-        .portfolio-hover-content {
+        .photo-hover-content {
           font-size: 20px;
           position: absolute;
           top: 50%;
@@ -40,7 +67,7 @@
         }
       }
     }
-    .portfolio-caption {
+    .photo-caption {
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
@@ -63,14 +90,14 @@
   }
 }
 @media(min-width:767px) {
-  #portfolio {
-    .portfolio-item {
+  #photo {
+    .photo-item {
       margin: 0 0 30px;
     }
   }
 }
 
-.portfolio-modal {
+.photo-modal {
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;

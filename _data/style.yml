@@ -5,7 +5,9 @@
 
 #Image Customization
 header-image: "../img/header1.jpeg"
+wechat-image: "../img/header1.jpeg"
 contact-image: "../img/contact.png"
+photo-image: "../img/portfolio/proj7/wall.jpg"
 
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x

@@ -4,6 +4,14 @@ header:
     button: Tell Me More
     buttonlink: "#services"
 
+wechat:
+    title: Wechat Here
+    abstract: wechats
+
+photo:
+    title: Photo
+    text: photo
+
 services:
     title: "About Me"
     text: "Brief introduction to myself."
