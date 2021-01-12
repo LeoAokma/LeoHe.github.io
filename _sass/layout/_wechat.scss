@@ -1,7 +1,8 @@
 // Styling for the wechat section
 header.wechathead {
   text-align: center;
-  color: white;
+  text-shadow: 0 0 10px #000000;
+  color: rgb(255, 255, 255);
   background-image: url("../../assets/img/wechat_header.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -24,6 +25,7 @@ header.wechathead {
       margin-bottom: 25px;
       @include heading-font;
     }
+
   }
 }
 @media(min-width:768px) {
