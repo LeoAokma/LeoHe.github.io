@@ -196,52 +196,92 @@ ul.social-buttons li a { font-size: 20px; line-height: 50px; display: block; wid
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover { background-color: #fed136; }
 
-#portfolio .portfolio-item { right: 0; margin: 0 0 15px; }
+photo.masthead { text-align: center; color: white; background-image: url("../img/portfolio/proj7/wall.jpg"); background-repeat: no-repeat; background-attachment: scroll; background-position: center center; background-size: cover; }
 
-#portfolio .portfolio-item .portfolio-link { position: relative; display: block; max-width: 400px; margin: 0 auto; cursor: pointer; }
+photo.masthead .intro-text { padding-top: 150px; padding-bottom: 100px; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover { position: absolute; width: 100%; height: 100%; -webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; transition: all ease 0.5s; opacity: 0; background: rgba(0, 83, 179, 0.9); }
+photo.masthead .intro-text .intro-lead-in { font-size: 22px; font-style: italic; line-height: 22px; margin-bottom: 25px; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover { opacity: 1; }
+photo.masthead .intro-text .intro-heading { font-size: 50px; font-weight: 700; line-height: 50px; margin-bottom: 25px; font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content { font-size: 20px; position: absolute; top: 50%; width: 100%; height: 20px; margin-top: -12px; text-align: center; color: white; }
+#photo .photo-item { right: 0; margin: 0 0 15px; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i { margin-top: -12px; }
+#photo .photo-item .photo-link { position: relative; display: block; max-width: 400px; margin: 0 auto; cursor: pointer; }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3, #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 { margin: 0; }
+#photo .photo-item .photo-link .photo-hover { position: absolute; width: 100%; height: 100%; -webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; transition: all ease 0.5s; opacity: 0; background: rgba(0, 83, 179, 0.9); }
 
-#portfolio .portfolio-item .portfolio-caption { max-width: 400px; margin: 0 auto; padding: 25px; text-align: center; background-color: #fff; }
+#photo .photo-item .photo-link .photo-hover:hover { opacity: 1; }
 
-#portfolio .portfolio-item .portfolio-caption h4 { margin: 0; text-transform: none; }
+#photo .photo-item .photo-link .photo-hover .photo-hover-content { font-size: 20px; position: absolute; top: 50%; width: 100%; height: 20px; margin-top: -12px; text-align: center; color: white; }
 
-#portfolio .portfolio-item .portfolio-caption p { font-size: 16px; font-style: italic; margin: 0; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+#photo .photo-item .photo-link .photo-hover .photo-hover-content i { margin-top: -12px; }
 
-#portfolio * { z-index: 2; }
+#photo .photo-item .photo-link .photo-hover .photo-hover-content h3, #photo .photo-item .photo-link .photo-hover .photo-hover-content h4 { margin: 0; }
 
-@media (min-width: 767px) { #portfolio .portfolio-item { margin: 0 0 30px; } }
+#photo .photo-item .photo-caption { max-width: 400px; margin: 0 auto; padding: 25px; text-align: center; background-color: #fff; }
 
-.portfolio-modal .modal-dialog { margin: 1rem; max-width: 100vw; }
+#photo .photo-item .photo-caption h4 { margin: 0; text-transform: none; }
 
-.portfolio-modal .modal-content { padding: 100px 0; text-align: center; }
+#photo .photo-item .photo-caption p { font-size: 16px; font-style: italic; margin: 0; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
-.portfolio-modal .modal-content h2 { font-size: 2em; margin-bottom: 15px; }
+#photo * { z-index: 2; }
 
-.portfolio-modal .modal-content p { margin-bottom: 30px; }
+@media (min-width: 767px) { #photo .photo-item { margin: 0 0 30px; } }
 
-.portfolio-modal .modal-content p.item-intro { font-size: 16px; font-style: italic; margin: 20px 0 30px; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+.photo-modal .modal-dialog { margin: 1rem; max-width: 100vw; }
 
-.portfolio-modal .modal-content ul.list-inline { margin-top: 0; margin-bottom: 30px; }
+.photo-modal .modal-content { padding: 100px 0; text-align: center; }
 
-.portfolio-modal .modal-content img { margin-bottom: 30px; }
+.photo-modal .modal-content h2 { font-size: 2em; margin-bottom: 15px; }
 
-.portfolio-modal .modal-content button { cursor: pointer; }
+.photo-modal .modal-content p { margin-bottom: 30px; }
 
-.portfolio-modal .close-modal { position: absolute; top: 25px; right: 25px; width: 75px; height: 75px; cursor: pointer; background-color: transparent; }
+.photo-modal .modal-content p.item-intro { font-size: 16px; font-style: italic; margin: 20px 0 30px; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
 
-.portfolio-modal .close-modal:hover { opacity: 0.3; }
+.photo-modal .modal-content ul.list-inline { margin-top: 0; margin-bottom: 30px; }
 
-.portfolio-modal .close-modal .lr { /* Safari and Chrome */ z-index: 1051; width: 1px; height: 75px; margin-left: 35px; /* IE 9 */ -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); background-color: #212529; }
+.photo-modal .modal-content img { margin-bottom: 30px; }
 
-.portfolio-modal .close-modal .lr .rl { /* Safari and Chrome */ z-index: 1052; width: 1px; height: 75px; /* IE 9 */ -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); background-color: #212529; }
+.photo-modal .modal-content button { cursor: pointer; }
+
+.photo-modal .close-modal { position: absolute; top: 25px; right: 25px; width: 75px; height: 75px; cursor: pointer; background-color: transparent; }
+
+.photo-modal .close-modal:hover { opacity: 0.3; }
+
+.photo-modal .close-modal .lr { /* Safari and Chrome */ z-index: 1051; width: 1px; height: 75px; margin-left: 35px; /* IE 9 */ -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); background-color: #212529; }
+
+.photo-modal .close-modal .lr .rl { /* Safari and Chrome */ z-index: 1052; width: 1px; height: 75px; /* IE 9 */ -webkit-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg); background-color: #212529; }
+
+wechat.masthead { text-align: center; color: white; background-image: url("../img/header1.jpeg"); background-repeat: no-repeat; background-attachment: scroll; background-position: center center; background-size: cover; }
+
+wechat.masthead .intro-text { padding-top: 150px; padding-bottom: 100px; }
+
+wechat.masthead .intro-text .intro-lead-in { font-size: 22px; font-style: italic; line-height: 22px; margin-bottom: 25px; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+
+wechat.masthead .intro-text .intro-heading { font-size: 50px; font-weight: 700; line-height: 50px; margin-bottom: 25px; font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+
+#wechat .wechat-item { right: 0; margin: 0 0 15px; }
+
+#wechat .wechat-item .wechat-link { position: relative; display: block; max-width: 400px; margin: 0 auto; cursor: pointer; }
+
+#wechat .wechat-item .wechat-link .wechat-hover { position: absolute; width: 100%; height: 100%; -webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; transition: all ease 0.5s; opacity: 0; background: rgba(0, 83, 179, 0.9); }
+
+#wechat .wechat-item .wechat-link .wechat-hover:hover { opacity: 1; }
+
+#wechat .wechat-item .wechat-link .wechat-hover .wechat-hover-content { font-size: 20px; position: absolute; top: 50%; width: 100%; height: 20px; margin-top: -12px; text-align: center; color: white; }
+
+#wechat .wechat-item .wechat-link .wechat-hover .wechat-hover-content i { margin-top: -12px; }
+
+#wechat .wechat-item .wechat-link .wechat-hover .wechat-hover-content h3, #wechat .wechat-item .wechat-link .wechat-hover .wechat-hover-content h4 { margin: 0; }
+
+#wechat .wechat-item .wechat-caption { max-width: 400px; margin: 0 auto; padding: 25px; text-align: center; background-color: #fff; }
+
+#wechat .wechat-item .wechat-caption h4 { margin: 0; text-transform: none; }
+
+#wechat .wechat-item .wechat-caption p { font-size: 16px; font-style: italic; margin: 0; font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; }
+
+#wechat * { z-index: 2; }
+
+@media (min-width: 767px) { #photo .photo-item { margin: 0 0 30px; } }
 
 /*# sourceMappingURL=agency.css.map */

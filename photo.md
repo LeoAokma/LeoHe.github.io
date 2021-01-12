@@ -1,7 +1,7 @@
 ---
 layout: page2
 title: Photo
-background: grey
+text: asjdklsajd
 ---
 <div class="col-lg-12 text-center">
 	<h1 class="section-heading text-uppercase">Video Works</h1>
