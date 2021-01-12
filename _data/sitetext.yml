@@ -58,6 +58,9 @@ portfolio:
     section: portfolio
     closebutton: "Close"
     
+docs:
+    title: "Document Demostrations"
+    text: "Some of my documents."
 
 timeline:
     title: "Timeline" 
