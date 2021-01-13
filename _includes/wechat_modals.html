@@ -1,6 +1,6 @@
 <!-- Wechat Modals -->
 {% for project in site.wechat_psg %}
-  <div class="post-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="wechat-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="close-modal" data-dismiss="modal">
@@ -19,7 +19,7 @@
 				<p>{{ project.content }}</p>		
                 <button class="btn btn-primary" data-dismiss="modal" type="button">
                   <i class="fas fa-times"></i>
-                  {{ site.post.closebutton | default: "Close Project" }}</button>
+                  {{ site.wechat.closebutton | default: "Close Project" }}</button>
               </div>
             </div>
           </div>

@@ -14,3 +14,28 @@
   </div>
 </header>
 <!-- End Header -->
+
+<!-- Wechat Grid -->
+<section class="bg-light page-section" id="{{ site.wechat.section | default: "wechat" }}">
+  <div class="container">
+    <div class="row">
+  {% for project in site.wechat_psg %}
+      <div class="col-md-4 col-sm-6 wechat-item">
+        <a class="wechat-link" data-toggle="modal" href="#p{{ forloop.index }}">
+          <div class="wechat-hover">
+            <div class="wechat-hover-content">
+              <i class="{{ site.data.style.wechat-icon | default: "fas fa-plus fa-3x" }}"></i>
+            </div>
+          </div>
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+        </a>
+        <div class="wechat-caption">
+          <h4>{{ project.caption.title }}</h4>
+          <p class="text-muted">{{ project.caption.subtitle }}</p>
+        </div>
+      </div>
+	{% endfor %}
+    </div>
+  </div>
+</section>
+{% include wechat_modals.html %}
