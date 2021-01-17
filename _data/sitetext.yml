@@ -5,13 +5,13 @@ header:
     buttonlink: "#services"
 
 wechat:
-    title: Wechat Hererr
-    abstract: wechats
+    title: Works published on wechat
+    abstract: Comming soon
     section: wechat
 
 photo:
     title: The Exhibition of
-    text: Personal Photography
+    text: Personal Photography(Coming soon!)
 
 services:
     title: "About Me"
@@ -61,7 +61,7 @@ portfolio:
     
 docs:
     title: "Document Demostrations"
-    text: "Some of my documents."
+    text: "Some of my documents.(Coming soon)"
 
 timeline:
     title: "Timeline" 
@@ -145,7 +145,7 @@ clients:
 team:
     title: "My Social Platforms"
     text: "This is where I usually publish my works."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: coming soon.
     section: team
     people:
       - name: "Bilibili"
@@ -183,7 +183,7 @@ team:
           
 contact:
     title: "Contact Me"
-    text: "Contact Leo!"
+    text: "Contact Leo!(Coming soon!)"
     section: contact
     
 footer:
