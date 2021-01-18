@@ -11,14 +11,14 @@ wechat:
 
 photo:
     title: The Exhibition of
-    text: Personal Photography(Coming soon!)
+    text: Personal Photography
 
 services:
     title: "About Me"
     text: "Brief introduction to myself."
     section: services
     list:
-      - title: "Photography"
+      - title: "[Photography](photo)"
         desc: "Developing DSLR photography for over 10 years, now entering medium format film field."
         icon: fas fa-camera #find more at https://fontawesome.com/icons
       - title: "[Video Editing & After Effects](photo)"
@@ -34,7 +34,7 @@ services:
         desc: "Running public social media for over 2 years, publishing over 40 original pieces of work, and gaining more than
         50,000 reads."
         icon: fab fa-weixin
-      - title: "Experiment Abilities"
+      - title: "[Experiment Abilities](docs)"
         desc: "Strong interests in performing experiments including Chemistry, Physics and Optics. Proficient in 
         doing experiments, once the record holder in organic synthesis yield when training for Chemistry Olympiad in
         Xiamen University."
@@ -121,7 +121,7 @@ timeline:
 
 about:
     title: "More Info"
-    text: "Absldjfkdlsjfkldsjflksdajflksajfslkdfsd"
+    text: "Text here"
     section: about
 
 clients:
