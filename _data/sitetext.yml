@@ -24,7 +24,7 @@ services:
       - title: "[Video Editing & After Effects](photo)"
         desc: "Developing editing skills for over 8 years, excell in Premiere, After Effects and DavinciResolve."
         icon: fas fa-film
-      - title: "Aerophotography"
+      - title: "[Aerophotography](photo)"
         desc: "Flying drones for more than 600 kilometers and taking for over 10, 000 photos."
         icon: fas fa-plane
       - title: "Python Coding"

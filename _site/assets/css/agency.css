@@ -286,7 +286,7 @@ header.wechathead .intro-text .intro-heading { font-size: 50px; font-weight: 700
 
 #post * { z-index: 2; }
 
-@media (min-width: 767px) { #post .post-item { margin: 0 0 30px; } }
+@media (max-width: 767px) { #post .post-item { margin: 0 0 30px; } }
 
 .post-modal .modal-dialog { margin: 1rem; max-width: 100vw; }
 
