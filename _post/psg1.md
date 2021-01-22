@@ -15,7 +15,7 @@ Ibuprofen serves as an important molecule in elementary medical treatment. In la
 
 ## Backgrounds
 <font size=5>
-布洛芬最早于1961年被Stewart Adams发现，并以Brufen命名为商业化药物<sup>[1]</sup>。其在缓解头痛、偏头痛、牙痛、肌肉疼痛等轻度至中等程度的疼痛上具有良好效果，在基础医疗中扮演重要的角色[1]。目前，工业上主要采用BHC法制备布洛芬，这是一种大量、高产率、低成本的合成方案<sup>[2]</sup>。本篇文章复现并探究了以乙酸碘苯作为催化剂，通过发生1,2-芳基重排制备布洛芬的办法。经过文献搜索，又找到以碘单质和氯化碘作为试剂的原始文献<sup>[3]</sup>。由于文献年代较早，表征手段较为落后，实验步骤不清晰，重现性差，对布洛芬产物的获取造成了很大的困难。初级中间体对异丁基苯丙酮可以使用成熟的傅克酰基化方案几乎定量制备<sup>[4]</sup>。经过多种条件的尝试和实验步骤的优化，以较高的产率得到了布洛芬粗品，从异丁基苯出发，路线总产率可达80%以上。
+First found in 1961 by Stewart Adams and named as Brufen for commercial use<sup>[1]</sup>, the ibuprofen has quite a good efficiency in alleviating headache, 偏头痛, toothcacche, sore muscles 等轻度至中等程度的疼痛, which plays a crucial role in fundamental medical treatments<sup>[1]</sup>. As the current industrial process of producing ibuprofen, BHC method is a method of large amount inputs and low costs which still results in high yields<sup>[2]</sup>. This passage replicated and discovered the route of synthesizing ibuprofen by using diacetoxyiodo benzene as catalyst for 1,2-Aryl rearrangements. 经过文献搜索，又找到以碘单质和氯化碘作为试剂的原始文献<sup>[3]</sup>。由于文献年代较早，表征手段较为落后，实验步骤不清晰，重现性差，对布洛芬产物的获取造成了很大的困难。初级中间体对异丁基苯丙酮可以使用成熟的傅克酰基化方案几乎定量制备<sup>[4]</sup>。经过多种条件的尝试和实验步骤的优化，以较高的产率得到了布洛芬粗品，从异丁基苯出发，路线总产率可达80%以上。
 </font>
 
 ## 1.Results and Discussion
