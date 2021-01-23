@@ -11,12 +11,5 @@ image:  #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+### Still working on it.....
 
