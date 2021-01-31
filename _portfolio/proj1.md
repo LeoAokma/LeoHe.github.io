@@ -32,7 +32,6 @@ After days of research and discussion, I worked up an 3D sketch in solidworks an
 ![avatar](assets/img/portfolio/proj1/6.png){:width="50%"}
 ![avatar](assets/img/portfolio/proj1/5.png){:width="50%"}
 
-
 看到成品的那一瞬间特别开心，因为组件精度和结构强度都超乎我的想象（PLA聚乳酸）。
 加上之前的充电宝供电问题，我们改用了市电供电电源，这样就不用换充电宝啦！
 After optimization in codes, the door gate now consumes 50% energy less than the prototype. The power is so low that the power bank would halt when the door gate is idle.
@@ -54,4 +53,3 @@ Secondly, Arduino Uno is a demo chip for development, which would lead to higher
 于是买来了Nano芯片。本来想通过焊接代替暂时的杜邦线连接以增强电路稳定性，然并卵，反而体现了我的渣焊锡技术（ORZ）。
 
 接下来要做的第一件事情是把新的主机外壳设计出来。已经经过一个月Solidworks软件探索得我，掌握了熟（lā）练（jī）的画图技巧（说出来可能要被学建筑的笑死）
-
