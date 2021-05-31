@@ -1,6 +1,6 @@
 ---
 title: "Intermediate Physical Chemistry Lab"
-subtitle: "..."
+subtitle: "The manufacture and optimization of microscopic Raman spectrometer and its application in measuring surface enhanced raman spectroscopy."
 image: assets/img/portfolio/proj10/software.png
 alt: Keep Exploring
 
