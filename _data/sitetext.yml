@@ -1,7 +1,7 @@
 header:
     title: Welcome to Leo Studios!
     text: Find out more about Leo!
-    button: Tell Me More
+    button: Learn More
     buttonlink: "#services"
 
 wechat:
@@ -40,7 +40,7 @@ services:
         Xiamen University."
         icon: fas fa-flask
       - title: "Piano Playing"
-        desc: "Playing piano for over 10 years, got the 10th level certificate of Shanghai Musical Association in 2014.
+        desc: "Playing piano for over 10 years, got the grade 10 certificate for piano-playing of Shanghai Conservatory of Music in 2014.
         Participated in multiple competition and got prizes during junior high."
         icon: fas fa-music
       - title: "Microchip Programming"
@@ -145,7 +145,7 @@ clients:
 team:
     title: "My Social Platforms"
     text: "This is where I usually publish my works."
-    subtext: coming soon.
+    subtext: Click the hyperref to visit the website
     section: team
     people:
       - name: "Bilibili"
@@ -171,6 +171,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Wechat Public Platform"
+        url: "https://mp.weixin.qq.com/mp/homepage?__biz=MzUxNzk5NjExMA==&hid=2&sn=80c98f4e7914153d5e111a62862d20fd"
         role: "A Chinese information exchanging platform for all citizens"
         image: assets/img/team/wechat.png
         social:
@@ -189,14 +190,14 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
+      - url: https://bilibili.com/85961568
+        icon: "fas fa-film"  
       - url: https://www.linkedin.com/in/%E5%98%89%E7%82%9C-leo-%E4%BD%95-5995a9189/
         icon: "fab fa-linkedin-in"
       - url: https://github.com/LeoAokma
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://mp.weixin.qq.com/mp/homepage?__biz=MzUxNzk5NjExMA==&hid=2&sn=80c98f4e7914153d5e111a62862d20fd
+        icon: "fab fa-weixin"
       - url: https://500px.com.cn/LeoAokma
         icon: "fab fa-500px"
 

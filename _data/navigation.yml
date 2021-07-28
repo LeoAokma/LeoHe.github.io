@@ -11,8 +11,8 @@ nav:
   - title: "Social Platforms"
     section: team
 
-  - title: "Contact"
-    section: contact
+  - title: "Gallery"
+    url: photo
 
   - title: "Documents"
     url: docs
